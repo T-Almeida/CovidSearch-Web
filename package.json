@@ -8,7 +8,7 @@
     "react-dom": "^16.8.6",
     "react-ga": "^2.7.0",
     "react-paginate": "^6.3.2",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "react-spinners": "^0.5.8"
   },
   "scripts": {
